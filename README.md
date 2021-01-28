@@ -1,2 +1,3 @@
-# car_detector_haarcascades
-Car Detection using haarcascades. Using OpenCV and Python
+# I.A detector de veiculos
+
+Detector construido a base de python e com as bibliotecas numpy e opencv
